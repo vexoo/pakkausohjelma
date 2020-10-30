@@ -1,6 +1,7 @@
 ## Viikkoraportti 1
 
-Projekti alkoi aiheen valinnalla, mikä on historiallisesti tuottanut itselle vaikeuksia juuri tällaisissa tapauksissa, missä projektin aihe on hyvin vapaa. Mikään aihe-esimerkeistä ei heti laittanut aivoissa kelloja soimaan ja esimerkkiaiheiden ulkopuolelta näin nopeasti parin päivän sisällä hirveän vaikea lähteä keksimään jotain, ainakin itselle. 
+Projekti alkoi aiheen valinnalla, mikä on historiallisesti tuottanut itselle vaikeuksia juuri tällaisissa tapauksissa, missä projektin aihe on hyvin vapaa. 
+Mikään aihe-esimerkeistä ei heti laittanut aivoissa kelloja soimaan ja esimerkkiaiheiden ulkopuolelta näin nopeasti parin päivän sisällä hirveän vaikea lähteä keksimään jotain, ainakin itselle. 
 
 Lopulta päätin tyytyä nopalla päättämiseen ja noppa osui tiedoston tiivistämisen kohdalle. Katsoin kumpaakin annettua algoritmia hieman(Huffman ja Lempel Ziv) ja niistä kahdesta LZ(tarkemmin LZW-implementaatio) vaikutti mielenkiintoisemmalta. Jos yhden algoritmin kanssa ei kestä liian kauaa, lisään toisen myöhemmin.
 
