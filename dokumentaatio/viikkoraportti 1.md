@@ -6,8 +6,6 @@ Lopulta päätin tyytyä nopalla päättämiseen ja noppa osui tiedoston tiivist
 
 Tiedostojen tiivistys on itselle ihan uusi aihealue, joten käytännössä kaikki mitä tulee vastaan on uutta.
 
-Näin aluksi on yksi asia, mikä jäi vähän epäselväksi.
-        
-        1. Liittyy enemmän kurssin käytäntöihin: miten paljon saa käyttää Javan File-luokkaa? Kun kerran tiedostoa pitää tiivistää, niin tiedostoja pitää lukea ja luoda tiivistetty versio, yms. Pitääkö nämäkin toteutukset tehdä itse kuten arraylist, hashmap yms.?
+Näin aluksi on yksi asia, mikä jäi vähän epäselväksi liittyy enemmän kurssin käytäntöihin: miten paljon saa käyttää Javan File-luokkaa? Kun kerran tiedostoa pitää tiivistää, niin tiedostoja pitää lukea ja luoda tiivistetty versio, yms. Pitääkö nämäkin toteutukset tehdä itse kuten arraylist, hashmap yms.?
 
 Seuraava askel on luoda edes jonkunlainen graafinen käyttöliittymä javafx avulla, jonka jälkeen aloitan algoritmien implementoinnin
