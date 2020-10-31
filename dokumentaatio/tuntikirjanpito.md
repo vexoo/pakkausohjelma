@@ -15,6 +15,8 @@
 | yht   | 3 | |
 
 
+### Yhteensä
+
 | viikko | aika |
 | :----:|:-----|
 | viikko 1 | 7  |
