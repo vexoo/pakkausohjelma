@@ -12,4 +12,11 @@
 | päivä | aika | mitä tein  |
 | :----:|:-----| :-----|
 | 31.10. | 3  | käyttöliittymän tekoa javafx kanssa |
-| yht   | 7 | |
+| yht   | 3 | |
+
+
+| viikko | aika |
+| :----:|:-----|
+| viikko 1 | 7  |
+| viikko 2 | 3  |
+| yht   | 10 |
