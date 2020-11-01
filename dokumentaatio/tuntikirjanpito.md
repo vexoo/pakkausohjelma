@@ -12,7 +12,8 @@
 | päivä | aika | mitä tein  |
 | :----:|:-----| :-----|
 | 31.10. | 3  | käyttöliittymän tekoa javafx kanssa |
-| yht   | 3 | |
+| 1.11. | 4  | lisää aiheeseen tutustumista |
+| yht   | 7 | |
 
 
 ### Yhteensä
@@ -20,5 +21,5 @@
 | viikko | aika |
 | :----:|:-----|
 | viikko 1 | 7  |
-| viikko 2 | 3  |
-| yht   | 10 |
+| viikko 2 | 7  |
+| yht   | 14 |
